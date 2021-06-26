@@ -21,7 +21,7 @@ I'm Mayuko Kori, a 2nd-year student in 5-year Ph.D. course at [Dept. of Informat
 Proc. [CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php).<br>
 [[arXiv](https://arxiv.org/abs/2105.04817)]
 - Mayuko Kori, [Takeshi Tsukada](https://www-kb.is.s.u-tokyo.ac.jp/~tsukada/) and [Naoki Kobayashi](http://www-kb.is.s.u-tokyo.ac.jp/~koba/).<br>
-**A Cyclic Proof System for HFL_ℕ**.<br>
+**A Cyclic Proof System for HFL(N)**.<br>
 Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/).<br>
 [[doi](https://doi.org/10.4230/LIPIcs.CSL.2021.29) | [arXiv](https://arxiv.org/abs/2010.14891)]
 
@@ -33,11 +33,11 @@ BSc thesis, The University of Tokyo, 2020.
 ## Talks
 - **Initial Algebra-Final Coalgebra Coincidence in Fibrations**.<br>
 [CSCAT 2021](https://sites.google.com/view/cscat2020/home), virtual conference, 18 Mar 2021.
-- **A Cyclic Proof System for HFL_ℕ**.<br>
+- **A Cyclic Proof System for HFL(N)**.<br>
 [CSL 2021](https://csl2021.fmf.uni-lj.si/), virtual conference, 27 Jan 2021.
 
 ## Posters
-- **A Cyclic Proof System for HFL_ℕ**.<br>
+- **A Cyclic Proof System for HFL(N)**.<br>
 [PPL 2020](https://jssst-ppl.org/workshop/2020/), virtual conference, 4 Mar 2020.
 
 ## Contact
