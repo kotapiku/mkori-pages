@@ -9,10 +9,10 @@ I'm Mayuko Kori, a 2nd-year student in 5-year Ph.D. course at [Dept. of Informat
 - Formal Verification
 
 ## Education
-- 2020.4—current: Ph.D. student at [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/)
-- 2016.4—2020.3: B.S. in Information Science, [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
-- 2018.4—2020.3: School of Science, Dept. of Information Science
-- 2016.4—2018.3: College of Arts and Sciences
+- 2020.4 — current: Ph.D. student at [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/)
+- 2016.4 — 2020.3: B.S. in Information Science, [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
+- 2018.4 — 2020.3: School of Science, Dept. of Information Science
+- 2016.4 — 2018.3: College of Arts and Sciences
 
 ## Papers
 
