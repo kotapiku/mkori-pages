@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Mayuko Kori（郡 茉友子）
 
 I'm Mayuko Kori, a 2nd-year student in a 5-year Ph.D. course at [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), 
