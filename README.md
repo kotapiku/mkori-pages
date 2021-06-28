@@ -1,5 +1,5 @@
 ---
-title: Mayuko Kori
+exclude: true
 ---
 
 # Mayuko Kori（郡 茉友子）
