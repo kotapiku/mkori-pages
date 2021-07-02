@@ -6,9 +6,9 @@ My research supervisor is [Ichiro Hasuo](https://group-mmm.org/~ichiro/).
 
 
 ## Research Interests
-- Fixed Point Theory
-- Category Theory
-- Formal Verification
+- fixed point theory
+- category theory
+- formal verification
 
 ## Education
 - 2020.4 — Now<br>
