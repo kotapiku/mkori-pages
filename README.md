@@ -1,6 +1,6 @@
 # Mayuko Kori
 
-I'm Mayuko Kori, a 2nd-year student in a 5-year Ph.D. course at [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), 
+I'm Mayuko Kori (郡 茉友子), a 2nd-year student in a 5-year Ph.D. course at [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), 
 [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/).
 My research supervisor is [Ichiro Hasuo](https://group-mmm.org/~ichiro/).
 
