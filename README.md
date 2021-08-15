@@ -25,7 +25,7 @@ Natural Sciences I, College of Arts and Sciences Junior Div., [The University of
 - Mayuko Kori, [Ichiro Hasuo](http://group-mmm.org/~ichiro/) and [Shin-ya Katsumata](http://group-mmm.org/~s-katsumata/).<br>
 **Fibrational Initial Algebra-Final Coalgebra Coincidence over Initial Algebras: Turning Verification Witnesses Upside Down**.<br>
 Proc. [CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php).<br>
-[[arXiv](https://arxiv.org/abs/2105.04817)]
+[[doi](https://doi.org/10.4230/LIPIcs.CONCUR.2021.21) | [[arXiv](https://arxiv.org/abs/2105.04817)]
 - Mayuko Kori, [Takeshi Tsukada](https://www-kb.is.s.u-tokyo.ac.jp/~tsukada/) and [Naoki Kobayashi](http://www-kb.is.s.u-tokyo.ac.jp/~koba/).<br>
 **A Cyclic Proof System for HFL(N)**.<br>
 Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/).<br>
