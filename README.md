@@ -37,6 +37,8 @@ Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/).<br>
 BSc thesis, The University of Tokyo, 2020.
 
 ## Talks
+- **Fibrational Initial Algebra-Final Coalgebra Coincidence over Initial Algebras: Turning Verification Witnesses Upside Down**.<br>
+[CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php), virtual conference, 26 Aug 2021.
 - **Initial Algebra-Final Coalgebra Coincidence in Fibrations**.<br>
 [CSCAT 2021](https://sites.google.com/view/cscat2020/home), virtual conference, 18 Mar 2021.
 - **A Cyclic Proof System for HFL(N)**.<br>
