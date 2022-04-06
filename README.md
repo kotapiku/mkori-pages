@@ -1,6 +1,6 @@
 # Mayuko Kori (郡茉友子)
 
-I'm Mayuko Kori, a 2nd-year student in a 5-year Ph.D. course at [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), 
+I'm Mayuko Kori, a 3rd-year student in the 5-year Ph.D. course at [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), 
 [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/).
 My research supervisor is [Ichiro Hasuo](https://group-mmm.org/~ichiro/).
 
@@ -37,16 +37,18 @@ Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/).<br>
 BSc thesis, The University of Tokyo, 2020.
 
 ## Talks
+- **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
+[CMCS 2022](https://www.coalg.org/cmcs22/), Munich, Germany, 3 April 2022.
 - **Fibrational Initial Algebra-Final Coalgebra Coincidence over Initial Algebras: Turning Verification Witnesses Upside Down**.<br>
-[CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php), virtual conference, 26 Aug 2021.
+[CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php), online, 26 Aug 2021.
 - **Initial Algebra-Final Coalgebra Coincidence in Fibrations**.<br>
-[CSCAT 2021](https://sites.google.com/view/cscat2020/home), virtual conference, 18 Mar 2021.
+[CSCAT 2021](https://sites.google.com/view/cscat2020/home), online, 18 Mar 2021.
 - **A Cyclic Proof System for HFL(N)**.<br>
-[CSL 2021](https://csl2021.fmf.uni-lj.si/), virtual conference, 27 Jan 2021.
+[CSL 2021](https://csl2021.fmf.uni-lj.si/), online, 27 Jan 2021.
 
 ## Posters
 - **A Cyclic Proof System for HFL(N)**.<br>
-[PPL 2020](https://jssst-ppl.org/workshop/2020/), virtual conference, 4 Mar 2020.
+[PPL 2020](https://jssst-ppl.org/workshop/2020/), online, 4 Mar 2020.
 
 ## Contact
 Email: mkori [at] nii.ac.jp
