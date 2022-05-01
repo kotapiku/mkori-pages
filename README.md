@@ -46,9 +46,8 @@ BSc thesis, The University of Tokyo, 2020.
 - **A Cyclic Proof System for HFL(N)**.<br>
 [CSL 2021](https://csl2021.fmf.uni-lj.si/), online, 27 Jan 2021.
 
-## Posters
-- **A Cyclic Proof System for HFL(N)**.<br>
-[PPL 2020](https://jssst-ppl.org/workshop/2020/), online, 4 Mar 2020.
+## Grants
+- Grant-in-Aid for JSPS Fellows, Grant Number: 22J21742, 2022/04-2025/03
 
 ## Contact
 Email: mkori [at] nii.ac.jp
