@@ -23,7 +23,7 @@ Natural Sciences I, College of Arts and Sciences Junior Div., [The University of
 ## Papers
 
 - Mayuko Kori, Natsuki Urabe, Shin-ya Katsumata, Kohei Suenaga, Ichiro Hasuo.<br>
-**The Lattice-Theoretic Essence of PropertyDirected Reachability Analysis**.<br>
+**The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
 Proc. [CAV 2022](http://i-cav.org/2022/).<br>
 [[arXiv](https://arxiv.org/abs/2203.14261)]
 - Mayuko Kori, [Ichiro Hasuo](http://group-mmm.org/~ichiro/) and [Shin-ya Katsumata](http://group-mmm.org/~s-katsumata/).<br>
