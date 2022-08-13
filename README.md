@@ -44,7 +44,7 @@ BSc thesis, The University of Tokyo, 2020.
 ## Talks
 - **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
 [CAV 2022](http://i-cav.org/2022/), Haifa, Israel, 7 Aug 2022.<br>
-Slides: [pdf](https://mkori.com/slides/2022cav.pdf)
+[[slide](https://mkori.com/slides/2022cav.pdf)]
 - **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
 [CMCS 2022](https://www.coalg.org/cmcs22/), online (hybrid: Munich, Germany), 3 April 2022.
 - **Fibrational Initial Algebra-Final Coalgebra Coincidence over Initial Algebras: Turning Verification Witnesses Upside Down**.<br>
