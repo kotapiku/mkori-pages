@@ -13,7 +13,8 @@ My research supervisor is [Ichiro Hasuo](https://group-mmm.org/~ichiro/).
 ## Education
 - 2020.4 — Now<br>
 5-year Ph.D. course<br>
-[Hasuo Lab](https://group-mmm.org/eratommsd/), [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/)
+[Hasuo Lab](https://group-mmm.org/eratommsd/), [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/)<br>
+(2022.6 — 2022.11: visiting student in the University of Pisa hosted by [Filippo Bonchi](https://www.irif.fr/~greta/author/filippo-bonchi/))
 - 2018.4 — 2020.3<br>
 Bachelor of Science<br>
 Dept. of Information Science, [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
