@@ -25,7 +25,7 @@ Natural Sciences I, College of Arts and Sciences Junior Div., [The University of
 - Mayuko Kori, Natsuki Urabe, Shin-ya Katsumata, Kohei Suenaga, Ichiro Hasuo.<br>
 **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
 Proc. [CAV 2022](http://i-cav.org/2022/).<br>
-[[arXiv](https://arxiv.org/abs/2203.14261)]
+[[doi](https://doi.org/10.1007/978-3-031-13185-1_12) | [arXiv](https://arxiv.org/abs/2203.14261)]
 - Mayuko Kori, [Ichiro Hasuo](http://group-mmm.org/~ichiro/) and [Shin-ya Katsumata](http://group-mmm.org/~s-katsumata/).<br>
 **Fibrational Initial Algebra-Final Coalgebra Coincidence over Initial Algebras: Turning Verification Witnesses Upside Down**.<br>
 Proc. [CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php).<br>
@@ -41,6 +41,9 @@ Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/).<br>
 BSc thesis, The University of Tokyo, 2020.
 
 ## Talks
+- **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
+[CAV 2022](http://i-cav.org/2022/), Haifa, Israel, 7 Aug 2022.<br>
+Slides: [pdf](https://mkori.com/slides/2022cav.pdf)
 - **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
 [CMCS 2022](https://www.coalg.org/cmcs22/), online (hybrid: Munich, Germany), 3 April 2022.
 - **Fibrational Initial Algebra-Final Coalgebra Coincidence over Initial Algebras: Turning Verification Witnesses Upside Down**.<br>
