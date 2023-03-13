@@ -43,16 +43,20 @@ BSc thesis, The University of Tokyo, 2020.
 
 ## Talks
 - **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
-[CAV 2022](http://i-cav.org/2022/), Haifa, Israel, 7 Aug 2022.<br>
+[PPL 2023](https://jssst-ppl.org/workshop/2023/), Nagoya, Japan. Mar 6, 2023.<br>
+- **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
+[JSSST 2022](https://jssst2022.wordpress.com/), online. Sep 1, 2022.<br>
+- **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
+[CAV 2022](http://i-cav.org/2022/), Haifa, Israel. Aug 7, 2022.<br>
 [[slide](https://mkori.com/slides/2022cav.pdf)]
 - **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
-[CMCS 2022](https://www.coalg.org/cmcs22/), online (hybrid: Munich, Germany), 3 April 2022.
+[CMCS 2022](https://www.coalg.org/cmcs22/), online (hybrid: Munich, Germany). April 3, 2022.
 - **Fibrational Initial Algebra-Final Coalgebra Coincidence over Initial Algebras: Turning Verification Witnesses Upside Down**.<br>
-[CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php), online, 26 Aug 2021.
+[CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php), online. Aug 26, 2021.
 - **Initial Algebra-Final Coalgebra Coincidence in Fibrations**.<br>
-[CSCAT 2021](https://sites.google.com/view/cscat2020/home), online, 18 Mar 2021.
+[CSCAT 2021](https://sites.google.com/view/cscat2020/home), online. Mar 18, 2021.
 - **A Cyclic Proof System for HFL(N)**.<br>
-[CSL 2021](https://csl2021.fmf.uni-lj.si/), online, 27 Jan 2021.
+[CSL 2021](https://csl2021.fmf.uni-lj.si/), online. Jan 27, 2021.
 
 ## Grants
 - Grant-in-Aid for JSPS Fellows, Grant Number: 22J21742, 2022/04-2025/03
