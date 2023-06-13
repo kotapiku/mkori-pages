@@ -1,9 +1,10 @@
 # Mayuko Kori (郡茉友子)
 
+<img src="images/mayuko_real.jpg" alt="real profile image" height="150"> <img src="images/mayuko_generated.jpg" alt="generated profile image" height="150"> 
+
 I'm Mayuko Kori, a 4th-year student in 5-year Ph.D. course at [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), 
 [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/).
 My research supervisor is [Ichiro Hasuo](https://group-mmm.org/~ichiro/).
-
 
 ## Research Interests
 - fixed point theory
