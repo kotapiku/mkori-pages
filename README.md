@@ -1,4 +1,4 @@
-# Mayuko Kori (郡茉友子)
+# Mayuko Kori (郡 茉友子)
 
 <img src="images/mayuko_real.jpg" alt="real profile image" height="150"> <img src="images/mayuko_generated.jpg" alt="generated profile image" height="150"> 
 
