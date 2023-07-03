@@ -23,7 +23,9 @@ Dept. of Information Science, [The University of Tokyo](https://www.u-tokyo.ac.j
 Natural Sciences I, College of Arts and Sciences Junior Div., [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
 
 ## Papers
-
+- Mayuko Kori, Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, Ichiro Hasuo.<br>
+**Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
+Proc. [CAV 2023](http://www.i-cav.org/2023/).<br>
 - Mayuko Kori, Natsuki Urabe, Shin-ya Katsumata, Kohei Suenaga, Ichiro Hasuo.<br>
 **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
 Proc. [CAV 2022](http://i-cav.org/2022/).<br>
