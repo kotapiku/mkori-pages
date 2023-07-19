@@ -26,7 +26,7 @@ Natural Sciences I, College of Arts and Sciences Junior Div., [The University of
 - Mayuko Kori, Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, Ichiro Hasuo.<br>
 **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
 Proc. [CAV 2023](http://www.i-cav.org/2023/).<br>
-[[arXiv](http://arxiv.org/abs/2307.02817)]
+[[doi](https://doi.org/10.1007/978-3-031-37703-7_3) | [arXiv](http://arxiv.org/abs/2307.02817)]
 - Mayuko Kori, Natsuki Urabe, Shin-ya Katsumata, Kohei Suenaga, Ichiro Hasuo.<br>
 **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
 Proc. [CAV 2022](http://i-cav.org/2022/).<br>
