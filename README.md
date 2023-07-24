@@ -46,6 +46,9 @@ Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/).<br>
 BSc thesis, The University of Tokyo, 2020.
 
 ## Talks
+- **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
+[CAV 2023](http://www.i-cav.org/2023/), Paris, France. July 19, 2023.<br>
+[[slide](https://mkori.com/slides/2023cav.pdf)]
 - **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
 [PPL 2023](https://jssst-ppl.org/workshop/2023/), Nagoya, Japan. Mar 6, 2023.<br>
 - **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
