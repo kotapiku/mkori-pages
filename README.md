@@ -62,6 +62,9 @@ BSc thesis, The University of Tokyo, 2020.
 - **A Cyclic Proof System for HFL(N)**.<br>
 [CSL 2021](https://csl2021.fmf.uni-lj.si/), online. Jan 27, 2021.
 
+## Awards
+- Distinguished paper award (jointly with Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, and Ichiro Hasuo.), [CAV 2023](http://www.i-cav.org/2023/), July, 2023.
+
 ## Grants
 - Grant-in-Aid for JSPS Fellows, Grant Number: 22J21742, 2022/04-2025/03
 
