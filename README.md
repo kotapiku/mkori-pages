@@ -47,7 +47,7 @@ BSc thesis, The University of Tokyo, 2020.
 
 ## Talks
 - **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
-JSSST 2023](https://jssst2023.wordpress.com/), Tokyo, Japan. Sep 13, 2023.<br>
+[JSSST 2023](https://jssst2023.wordpress.com/), Tokyo, Japan. Sep 13, 2023.<br>
 - **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
 [CAV 2023](http://www.i-cav.org/2023/), Paris, France. July 19, 2023.<br>
 [[slide](https://mkori.com/slides/2023cav.pdf)]
