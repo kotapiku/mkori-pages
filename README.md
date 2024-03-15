@@ -68,6 +68,7 @@ BSc thesis, The University of Tokyo, 2020.
 [CSL 2021](https://csl2021.fmf.uni-lj.si/), online. Jan 27, 2021.
 
 ## Awards
+- Best student award, [National Institute of Informatics](https://www.nii.ac.jp/), March, 2024.
 - Distinguished paper award (jointly with Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, and Ichiro Hasuo.), [CAV 2023](http://www.i-cav.org/2023/), July, 2023.
 
 ## Grants
