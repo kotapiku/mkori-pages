@@ -23,6 +23,10 @@ Dept. of Information Science, [The University of Tokyo](https://www.u-tokyo.ac.j
 Natural Sciences I, College of Arts and Sciences Junior Div., [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
 
 ## Papers
+- Mayuko Kori, Kazuki Watanabe, Jurriaan Rot, Shin-ya Katsumata.<br>
+**Composing Codensity Bisimulations**.<br>
+Proc. [LICS 2024](https://lics.siglog.org/lics24/).<br>
+[[arXiv](https://arxiv.org/abs/2404.08308)]
 - Mayuko Kori, Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, Ichiro Hasuo.<br>
 **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
 Proc. [CAV 2023](http://www.i-cav.org/2023/).<br>
