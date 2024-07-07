@@ -26,7 +26,7 @@ Natural Sciences I, College of Arts and Sciences Junior Div., [The University of
 - Mayuko Kori, Kazuki Watanabe, Jurriaan Rot, Shin-ya Katsumata.<br>
 **Composing Codensity Bisimulations**.<br>
 Proc. [LICS 2024](https://lics.siglog.org/lics24/).<br>
-[[LICS 2024](https://doi.org/10.1145/3661814.3662139) | [arXiv](https://arxiv.org/abs/2404.08308)]
+[[doi](https://doi.org/10.1145/3661814.3662139) | [arXiv](https://arxiv.org/abs/2404.08308)]
 - Mayuko Kori, Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, Ichiro Hasuo.<br>
 **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
 Proc. [CAV 2023](http://www.i-cav.org/2023/).<br>
