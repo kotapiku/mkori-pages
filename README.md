@@ -50,6 +50,9 @@ Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/).<br>
 BSc thesis, The University of Tokyo, 2020.
 
 ## Talks
+- **Composing Codensity Bisimulations**.<br>
+[LICS 2024](https://lics.siglog.org/lics24/), Tallinn, Estonia. Jul 8, 2024.<br>
+[[slide](https://mkori.com/slides/LICS2024.pdf)]
 - **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
 [JSSST 2023](https://jssst2023.wordpress.com/), Tokyo, Japan. Sep 13, 2023.<br>
 - **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
