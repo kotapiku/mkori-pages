@@ -51,21 +51,15 @@ BSc thesis, The University of Tokyo, 2020.
 
 ## Talks
 - **Composing Codensity Bisimulations**.<br>
-[LICS 2024](https://lics.siglog.org/lics24/), Tallinn, Estonia. Jul 8, 2024.<br>
-[[slide](https://mkori.com/slides/LICS2024.pdf)]
+[LICS 2024](https://lics.siglog.org/lics24/), Tallinn, Estonia. Jul 8, 2024. [[slide](https://mkori.com/slides/LICS2024.pdf)]<br>
+[JSSST 2024](https://jssst2024.wordpress.com/), Osaka, Japan. Sep 10, 2024.<br>
 - **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
 [JSSST 2023](https://jssst2023.wordpress.com/), Tokyo, Japan. Sep 13, 2023.<br>
-- **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
-[CAV 2023](http://www.i-cav.org/2023/), Paris, France. July 19, 2023.<br>
-[[slide](https://mkori.com/slides/2023cav.pdf)]
+[CAV 2023](http://www.i-cav.org/2023/), Paris, France. July 19, 2023. [[slide](https://mkori.com/slides/2023cav.pdf)]<br>
 - **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
 [PPL 2023](https://jssst-ppl.org/workshop/2023/), Nagoya, Japan. Mar 6, 2023.<br>
-- **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
 [JSSST 2022](https://jssst2022.wordpress.com/), online. Sep 1, 2022.<br>
-- **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
-[CAV 2022](http://i-cav.org/2022/), Haifa, Israel. Aug 7, 2022.<br>
-[[slide](https://mkori.com/slides/2022cav.pdf)]
-- **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
+[CAV 2022](http://i-cav.org/2022/), Haifa, Israel. Aug 7, 2022. [[slide](https://mkori.com/slides/2022cav.pdf)]<br>
 [CMCS 2022](https://www.coalg.org/cmcs22/), online (hybrid: Munich, Germany). April 3, 2022.
 - **Fibrational Initial Algebra-Final Coalgebra Coincidence over Initial Algebras: Turning Verification Witnesses Upside Down**.<br>
 [CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php), online. Aug 26, 2021.
