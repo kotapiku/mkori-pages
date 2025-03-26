@@ -1,6 +1,6 @@
 # Mayuko Kori (郡 茉友子)
 
-<img src="images/mayuko_real.jpg" alt="real profile image" height="150"> <img src="images/mayuko_generated.jpg" alt="generated profile image" height="150"> 
+<img src="images/paris-sitting.jpg" alt="profile image" height="150">
 
 I'm Mayuko Kori, a 5th-year student in 5-year Ph.D. course at [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), 
 [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/).
@@ -44,7 +44,7 @@ Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/).<br>
 - Distinguished paper award (jointly with Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, and Ichiro Hasuo.), [CAV 2023](http://www.i-cav.org/2023/), July, 2023.
 
 ## Grants
-- Grant-in-Aid for JSPS Fellows, Grant Number: 22J21742, 2022/04-2025/03
+- Grant-in-Aid for JSPS Fellows, Grant Number: 22J21742, April 2022 - March 2025.
 
 ## Contact
 Email: mkori [at] nii.ac.jp
