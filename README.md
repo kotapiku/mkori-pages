@@ -11,18 +11,7 @@ My supervisor is [Ichiro Hasuo](https://group-mmm.org/~ichiro/).
 - category theory
 - formal verification
 
-## Education
-- 2020.4 — Now<br>
-5-year Ph.D. course<br>
-[Hasuo Lab](https://group-mmm.org/eratommsd/), [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/)<br>
-(2022.6 — 2022.11: visiting student in the University of Pisa hosted by [Filippo Bonchi](https://www.irif.fr/~greta/author/filippo-bonchi/))
-- 2018.4 — 2020.3<br>
-Bachelor of Science<br>
-Dept. of Information Science, [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
-- 2016.4 — 2018.3<br>
-Natural Sciences I, College of Arts and Sciences Junior Div., [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
-
-## Papers
+## Publications
 - Mayuko Kori, Kazuki Watanabe, Jurriaan Rot, Shin-ya Katsumata.<br>
 **Composing Codensity Bisimulations**.<br>
 Proc. [LICS 2024](https://lics.siglog.org/lics24/).<br>
@@ -44,29 +33,11 @@ Proc. [CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php).<br>
 Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/).<br>
 [[doi](https://doi.org/10.4230/LIPIcs.CSL.2021.29) | [arXiv](https://arxiv.org/abs/2010.14891)]
 
-## Theses
-- Mayuko Kori.<br>
-**A Cyclic Proof System for Fixed-Point Arithmetic**.<br>
-BSc thesis, The University of Tokyo, 2020.
+## Education
+- PhD in [Informatics](https://www.nii.ac.jp/graduate/en/), The Graduate University for Advanced Studies (SOKENDAI), March 2025.<br>
+(June 2022 — Nov. 2022: visiting student in the University of Pisa hosted by [Filippo Bonchi](https://www.irif.fr/~greta/author/filippo-bonchi/))
+- Bsc, The University of Tokyo, March 2021.
 
-## Talks
-- **Composing Codensity Bisimulations**.<br>
-[LICS 2024](https://lics.siglog.org/lics24/), Tallinn, Estonia. Jul 8, 2024. [[slide](https://mkori.com/slides/LICS2024.pdf)]<br>
-[JSSST 2024](https://jssst2024.wordpress.com/), Osaka, Japan. Sep 10, 2024.<br>
-- **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
-[JSSST 2023](https://jssst2023.wordpress.com/), Tokyo, Japan. Sep 13, 2023.<br>
-[CAV 2023](http://www.i-cav.org/2023/), Paris, France. July 19, 2023. [[slide](https://mkori.com/slides/2023cav.pdf)]<br>
-- **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
-[PPL 2023](https://jssst-ppl.org/workshop/2023/), Nagoya, Japan. Mar 6, 2023.<br>
-[JSSST 2022](https://jssst2022.wordpress.com/), online. Sep 1, 2022.<br>
-[CAV 2022](http://i-cav.org/2022/), Haifa, Israel. Aug 7, 2022. [[slide](https://mkori.com/slides/2022cav.pdf)]<br>
-[CMCS 2022](https://www.coalg.org/cmcs22/), online (hybrid: Munich, Germany). April 3, 2022.
-- **Fibrational Initial Algebra-Final Coalgebra Coincidence over Initial Algebras: Turning Verification Witnesses Upside Down**.<br>
-[CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php), online. Aug 26, 2021.
-- **Initial Algebra-Final Coalgebra Coincidence in Fibrations**.<br>
-[CSCAT 2021](https://sites.google.com/view/cscat2020/home), online. Mar 18, 2021.
-- **A Cyclic Proof System for HFL(N)**.<br>
-[CSL 2021](https://csl2021.fmf.uni-lj.si/), online. Jan 27, 2021.
 
 ## Awards
 - Best student award, [National Institute of Informatics](https://www.nii.ac.jp/), March, 2024.
