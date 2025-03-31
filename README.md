@@ -36,7 +36,7 @@ Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/).<br>
 ## Education
 - PhD in [Informatics](https://www.nii.ac.jp/graduate/en/), The Graduate University for Advanced Studies (SOKENDAI), March 2025.<br>
 (June 2022 — Nov. 2022: visiting student in the University of Pisa hosted by [Filippo Bonchi](https://www.irif.fr/~greta/author/filippo-bonchi/))
-- Bsc, The University of Tokyo, March 2021.
+- Bsc, The University of Tokyo, March 2020.
 
 
 ## Awards
