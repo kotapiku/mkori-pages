@@ -2,9 +2,7 @@
 
 <img src="images/paris-sitting.jpg" alt="profile image" height="150">
 
-I'm Mayuko Kori, a 5th-year student in 5-year Ph.D. course at [Dept. of Informatics](https://www.nii.ac.jp/graduate/en/), 
-[The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/).
-My supervisor is [Ichiro Hasuo](https://group-mmm.org/~ichiro/).
+I'm an assistant professor at [Research Institute for Mathematical Sciences](https://www.kurims.kyoto-u.ac.jp/en/index.html).
 
 ## Research Interests
 - fixed point theory
@@ -47,4 +45,4 @@ Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/).<br>
 - Grant-in-Aid for JSPS Fellows, Grant Number: 22J21742, April 2022 - March 2025.
 
 ## Contact
-Email: mkori [at] nii.ac.jp
+Email: mkori [at] kurims.kyoto-u.ac.jp
