@@ -10,15 +10,18 @@ I'm an assistant professor at [Research Institute for Mathematical Sciences](htt
 - formal verification
 
 ## Publications
-- Mayuko Kori, Kazuki Watanabe, Jurriaan Rot, Shin-ya Katsumata.<br>
+- Mayuko Kori, Kazuki Watanabe, and Jurriaan Rot.<br>
+**Initial Algebra Correspondence under Reachability Conditions**.<br>
+To appear in LICS 2025.<br>
+- Mayuko Kori, Kazuki Watanabe, Jurriaan Rot, and Shin-ya Katsumata.<br>
 **Composing Codensity Bisimulations**.<br>
 Proc. [LICS 2024](https://lics.siglog.org/lics24/).<br>
 [[doi](https://doi.org/10.1145/3661814.3662139) | [arXiv](https://arxiv.org/abs/2404.08308)]
-- Mayuko Kori, Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, Ichiro Hasuo.<br>
+- Mayuko Kori, Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, and Ichiro Hasuo.<br>
 **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
 Proc. [CAV 2023](http://www.i-cav.org/2023/).<br>
 [[doi](https://doi.org/10.1007/978-3-031-37703-7_3) | [arXiv](http://arxiv.org/abs/2307.02817)]
-- Mayuko Kori, Natsuki Urabe, Shin-ya Katsumata, Kohei Suenaga, Ichiro Hasuo.<br>
+- Mayuko Kori, Natsuki Urabe, Shin-ya Katsumata, Kohei Suenaga, and Ichiro Hasuo.<br>
 **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
 Proc. [CAV 2022](http://i-cav.org/2022/).<br>
 [[doi](https://doi.org/10.1007/978-3-031-13185-1_12) | [arXiv](https://arxiv.org/abs/2203.14261)]
