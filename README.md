@@ -12,7 +12,8 @@ I'm an assistant professor at [Research Institute for Mathematical Sciences](htt
 ## Publications
 - Mayuko Kori, Kazuki Watanabe, and Jurriaan Rot.<br>
 **Initial Algebra Correspondence under Reachability Conditions**.<br>
-To appear in LICS 2025.<br>
+Proc. [LICS 2025](https://lics.siglog.org/lics25/).<br>
+[[arXiv](https://arxiv.org/abs/2505.09132)]
 - Mayuko Kori, Kazuki Watanabe, Jurriaan Rot, and Shin-ya Katsumata.<br>
 **Composing Codensity Bisimulations**.<br>
 Proc. [LICS 2024](https://lics.siglog.org/lics24/).<br>
