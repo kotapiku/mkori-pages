@@ -46,6 +46,7 @@ Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/).<br>
 - Distinguished paper award (jointly with Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, and Ichiro Hasuo.), [CAV 2023](http://www.i-cav.org/2023/), July, 2023.
 
 ## Grants
+- ACT-X, Grant Number: JPMJAX25CD, Japan Science and Technology Agency (JST), October 2025 - March 2028.
 - Grant-in-Aid for JSPS Fellows, Grant Number: 22J21742, April 2022 - March 2025.
 
 ## Contact
