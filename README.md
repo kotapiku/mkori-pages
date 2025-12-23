@@ -10,6 +10,9 @@ I'm an assistant professor at [Research Institute for Mathematical Sciences](htt
 - formal verification
 
 ## Publications
+- Mayuko Kori and Kazuki Watanabe.<br>
+**A No-go Theorem for Coalgebraic Product Construction**.<br>
+To appear in FoSSaCS 2026.
 - Mayuko Kori, Kazuki Watanabe, and Jurriaan Rot.<br>
 **Initial Algebra Correspondence under Reachability Conditions**.<br>
 Proc. [LICS 2025](https://lics.siglog.org/lics25/).<br>
