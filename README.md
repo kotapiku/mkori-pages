@@ -12,7 +12,7 @@ I'm an assistant professor at [Research Institute for Mathematical Sciences](htt
 ## Publications
 - Pedro H. Azevedo de Amorim, Mayuko Kori, and Koko Muroya.<br>
 **A Framework for Coalgebraic Reward-Sensitive Bisimulation**.<br>
-To appear in [CMCS 2026](https://www.coalg.org/cmcs26/).
+To appear in [CMCS 2026](https://www.coalg.org/cmcs26/). [[arXiv](https://arxiv.org/abs/2604.01103)]
 - Mayuko Kori and Kazuki Watanabe.<br>
 **A No-go Theorem for Coalgebraic Product Construction**.<br>
 To appear in [FoSSaCS 2026](https://etaps.org/2026/conferences/fossacs/). [[arXiv](https://arxiv.org/abs/2504.06592)]
