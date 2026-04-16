@@ -15,7 +15,7 @@ I'm an assistant professor at [Research Institute for Mathematical Sciences](htt
 To appear in [CMCS 2026](https://www.coalg.org/cmcs26/). [[arXiv](https://arxiv.org/abs/2604.01103)]
 - Mayuko Kori and Kazuki Watanabe.<br>
 **A No-go Theorem for Coalgebraic Product Construction**.<br>
-To appear in [FoSSaCS 2026](https://etaps.org/2026/conferences/fossacs/). [[arXiv](https://arxiv.org/abs/2504.06592)]
+Proc. [FoSSaCS 2026](https://etaps.org/2026/conferences/fossacs/). [[doi](https://doi.org/10.1007/978-3-032-22730-0_17) | [arXiv](https://arxiv.org/abs/2504.06592)]
 - Mayuko Kori, Kazuki Watanabe, and Jurriaan Rot.<br>
 **Initial Algebra Correspondence under Reachability Conditions**.<br>
 Proc. [LICS 2025](https://lics.siglog.org/lics25/). [[doi](https://doi.org/10.1109/LICS65433.2025.00013) | [arXiv](https://arxiv.org/abs/2505.09132)]
