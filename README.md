@@ -3,11 +3,7 @@
 <img src="images/paris-sitting.jpg" alt="profile image" height="150">
 
 I'm an assistant professor at [Research Institute for Mathematical Sciences](https://www.kurims.kyoto-u.ac.jp/en/index.html).
-
-## Research Interests
-- fixed point theory
-- category theory
-- formal verification
+My research interests lie in fixed points arising in logic, formal verification, and related areas of computer science using tools from category theory.
 
 ## Publications
 - Pedro H. Azevedo de Amorim, Mayuko Kori, and Koko Muroya.<br>
