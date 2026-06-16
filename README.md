@@ -7,6 +7,12 @@ I'm an assistant professor at [Research Institute for Mathematical Sciences](htt
 My research interests lie in fixed points arising in logic, formal verification, and related areas of computer science using tools from category theory.
 
 ## Publications
+- Mayuko Kori and Kazuki Watanabe.<br>
+**From Coalgebraic Determinization to Belief Construction for Partial Observability**.<br>
+To appear in [CONCUR 2026](https://confest-2026.github.io/concur/). [[arXiv](https://arxiv.org/abs/2604.25355)]
+- Kazuki Watanabe, Mirai Ikebuchi, and Mayuko Kori.<br>
+**Adequacy for Predicate Transformer Semantics**.<br>
+To appear in [ICFP 2026](https://icfp26.sigplan.org/).
 - Pedro H. Azevedo de Amorim, Mayuko Kori, and Koko Muroya.<br>
 **A Framework for Coalgebraic Reward-Sensitive Bisimulation**.<br>
 To appear in [CMCS 2026](https://www.coalg.org/cmcs26/). [[arXiv](https://arxiv.org/abs/2604.01103)]
