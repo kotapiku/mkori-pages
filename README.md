@@ -7,7 +7,7 @@ I'm an assistant professor at [Research Institute for Mathematical Sciences](htt
 My research interests lie in fixed points arising in logic, formal verification, and related areas of computer science using tools from category theory.
 
 ## Publications
-- Mayuko Kori, Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, and Ichiro Hasuo.
+- Mayuko Kori, Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, and Ichiro Hasuo.<br>
 **Adjointness in property directed reachability analysis**.<br>
 [Formal Methods in System Design (FMSD) 2026](https://doi.org/10.1007/s10703-026-00496-7).
 - Mayuko Kori and Kazuki Watanabe.<br>
