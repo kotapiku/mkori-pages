@@ -7,6 +7,9 @@ I'm an assistant professor at [Research Institute for Mathematical Sciences](htt
 My research interests lie in fixed points arising in logic, formal verification, and related areas of computer science using tools from category theory.
 
 ## Publications
+- Mayuko Kori, Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, and Ichiro Hasuo.
+**Adjointness in property directed reachability analysis**.<br>
+[Formal Methods in System Design (FMSD) 2026](https://doi.org/10.1007/s10703-026-00496-7).
 - Mayuko Kori and Kazuki Watanabe.<br>
 **From Coalgebraic Determinization to Belief Construction for Partial Observability**.<br>
 To appear in [CONCUR 2026](https://confest-2026.github.io/concur/). [[arXiv](https://arxiv.org/abs/2604.25355)]
@@ -49,6 +52,7 @@ Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/). [[doi](https://doi.org/10.4230
 - Distinguished paper award (jointly with Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, and Ichiro Hasuo.), [CAV 2023](http://www.i-cav.org/2023/), July, 2023.
 
 ## Grants
+- Open Collaborative Research, National Institute of Informatics, July 2026 - March 2027.
 - ACT-X, Grant Number: JPMJAX25CD, Japan Science and Technology Agency (JST), October 2025 - March 2028.
 - Grant-in-Aid for JSPS Fellows, Grant Number: 22J21742, April 2022 - March 2025.
 
