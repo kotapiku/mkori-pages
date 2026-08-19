@@ -15,7 +15,7 @@ My research interests lie in fixed points arising in logic, formal verification,
 To appear in [CONCUR 2026](https://confest-2026.github.io/concur/). [[arXiv](https://arxiv.org/abs/2604.25355)]
 - Kazuki Watanabe, Mirai Ikebuchi, and Mayuko Kori.<br>
 **Adequacy for Predicate Transformer Semantics**.<br>
-To appear in [ICFP 2026](https://icfp26.sigplan.org/).
+Proc. [ICFP 2026](https://icfp26.sigplan.org/). [[doi](https://doi.org/10.1145/3828674)]
 - Pedro H. Azevedo de Amorim, Mayuko Kori, and Koko Muroya.<br>
 **A Framework for Coalgebraic Reward-Sensitive Bisimulation**.<br>
 To appear in [CMCS 2026](https://www.coalg.org/cmcs26/). [[arXiv](https://arxiv.org/abs/2604.01103)]
