@@ -9,10 +9,10 @@ My research interests lie in fixed points arising in logic, formal verification,
 ## Publications
 - Mayuko Kori, Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, and Ichiro Hasuo.<br>
 **Adjointness in property directed reachability analysis**.<br>
-[Formal Methods in System Design (FMSD) 2026](https://doi.org/10.1007/s10703-026-00496-7).
+Formal Methods in System Design (FMSD) 2026. [[doi](https://doi.org/10.1007/s10703-026-00496-7)].
 - Mayuko Kori and Kazuki Watanabe.<br>
 **From Coalgebraic Determinization to Belief Construction for Partial Observability**.<br>
-To appear in [CONCUR 2026](https://confest-2026.github.io/concur/). [[arXiv](https://arxiv.org/abs/2604.25355)]
+Proc. [CONCUR 2026](https://confest-2026.github.io/concur/). [[doi](https://doi.org/10.4230/LIPIcs.CONCUR.2026.39) | [arXiv](https://arxiv.org/abs/2604.25355)]
 - Kazuki Watanabe, Mirai Ikebuchi, and Mayuko Kori.<br>
 **Adequacy for Predicate Transformer Semantics**.<br>
 Proc. [ICFP 2026](https://icfp26.sigplan.org/). [[doi](https://doi.org/10.1145/3828674)]
