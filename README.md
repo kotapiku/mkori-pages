@@ -60,7 +60,7 @@ Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/). [[doi](https://doi.org/10.4230
 ICTAC'26, ATVA'24 (AE)
 
 ## External reviewer
-MFPS'26, LICS'26, FoSSaCS'25, ICALP'25, ICTAC'24, CMCS'24, POPL'23, CONCUR'22
+CONCUR'26, CSL'26, MFPS'26, LICS'26, FoSSaCS'25, ICALP'25, ICTAC'24, CMCS'24, POPL'23, CONCUR'22
 
 ## Contact
 Email: mkori [at] kurims.kyoto-u.ac.jp
