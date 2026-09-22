@@ -56,6 +56,10 @@ Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/). [[doi](https://doi.org/10.4230
 - ACT-X, Grant Number: JPMJAX25CD, Japan Science and Technology Agency (JST), October 2025 - March 2028.
 - Grant-in-Aid for JSPS Fellows, Grant Number: 22J21742, April 2022 - March 2025.
 
+## Teaching Experiences
+- Linear Algebra B, October 2026 -, Kyoto University.
+- Fundamentals of Computer Science (コンピュータサイエンス基礎) (jointly with Issei Terui, Masahito Hasegawa, and Zeinab Galal), April 2026 - July 2026, Kyoto University.
+
 ## PC
 ICTAC'26, ATVA'24 (AE)
 
