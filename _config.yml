@@ -1,3 +1,16 @@
-theme: jekyll-theme-primer
-title: null
-name: my personal page
+title: Mayuko Kori
+description: >-
+  Mayuko Kori is an assistant professor at the Research Institute for Mathematical
+  Sciences, Kyoto University, working on fixed points, logic, formal verification,
+  and category theory.
+url: https://mkori.com
+baseurl: ""
+lang: en
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CONTRIBUTING.md
+  - vendor
