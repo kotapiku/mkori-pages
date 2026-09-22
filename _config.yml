@@ -6,6 +6,7 @@ description: >-
 url: https://mkori.com
 baseurl: ""
 lang: en
+google_analytics: G-71RVZYGLFY
 markdown: kramdown
 kramdown:
   input: GFM

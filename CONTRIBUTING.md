@@ -22,12 +22,12 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Open <http://127.0.0.1:4000>. Run `bundle exec jekyll build` for a production
-build in `_site/`. Check the page at a narrow phone width as well as a desktop
-width after changing its layout.
+Open <http://127.0.0.1:4000>. Run `JEKYLL_ENV=production bundle exec jekyll build`
+for a production build in `_site/`. Check the page at a narrow phone width as
+well as a desktop width after changing its layout.
 
 Headings and navigation use the self-hosted IBM Plex Sans variable font; body
-text uses system fonts. The page has no client-side JavaScript or external font
+text uses system fonts. Fonts are served locally, with no external font
 requests. The Latin WOFF2 file in `assets/fonts/` comes from
 `@fontsource-variable/ibm-plex-sans` version 5.3.0. Its SIL Open Font License is
 included as `assets/fonts/ibm-plex-sans-OFL.txt`.
@@ -37,3 +37,13 @@ Nunito is also bundled as an alternative from `@fontsource-variable/nunito`
 version 5.3.0, with its license in `assets/fonts/OFL.txt`. To try it again, set
 `--heading` to `"Nunito", var(--sans)` in `assets/css/style.css` and update the
 font preload in `_layouts/default.html`.
+
+## Analytics
+
+The GA4 measurement ID is configured as `google_analytics` in `_config.yml`.
+The Google tag in `_layouts/default.html` is included only when
+`JEKYLL_ENV=production`, including on GitHub Pages. Normal local previews do not
+send analytics events. Remove the `google_analytics` entry to disable the tag.
+
+After deployment, visit the public site and check the Realtime report for the
+matching property in Google Analytics to confirm that events are received.
