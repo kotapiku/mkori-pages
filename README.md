@@ -119,6 +119,7 @@ My research interests lie in fixed points arising in logic, formal verification,
 ## Grants
 
 - **Open Collaborative Research**<br>
+  <span lang="ja">公募型共同研究</span><br>
   National Institute of Informatics, July 2026–March 2027.
 - **ACT-X**<br>
   Japan Science and Technology Agency (JST), October 2025–March 2028.<br>
@@ -133,6 +134,7 @@ My research interests lie in fixed points arising in logic, formal verification,
 <h2 id="teaching-experiences">Teaching</h2>
 
 - **Linear Algebra B**<br>
+  <span lang="ja">線形代数学(講義) B</span><br>
   Kyoto University, from October 2026.
 - **Fundamentals of Computer Science**<br>
   <span lang="ja">コンピュータサイエンス基礎</span><br>
