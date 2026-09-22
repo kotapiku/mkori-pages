@@ -66,5 +66,9 @@ ICTAC'26, ATVA'24 (AE)
 ## External reviewer
 CONCUR'26, CSL'26, MFPS'26, LICS'26, FoSSaCS'25, ICALP'25, ICTAC'24, CMCS'24, POPL'23, CONCUR'22
 
+## Misc
+- [我々の分野の国際会議紹介](https://kensakayori.github.io/blog/posts/2026-09-22.html)
+- [圏論の歩き方 改訂版](https://www.nippyo.co.jp/shop/book/9604.html)
+
 ## Contact
 Email: mkori [at] kurims.kyoto-u.ac.jp
