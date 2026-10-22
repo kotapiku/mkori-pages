@@ -14,9 +14,6 @@ I'm an assistant professor at the [Research Institute for Mathematical Sciences]
 
 My research is in formal verification and logic in computer science. I use tools from category theory, particularly coalgebra, to study problems in these areas.
 
-</div>
-<img class="portrait" src="{{ '/images/paris-sitting.jpg' | relative_url }}" alt="Mayuko Kori sitting in a park in Paris" width="961" height="965" fetchpriority="high">
-</div>
 
 <section class="publications" aria-labelledby="publications" markdown="1">
 
