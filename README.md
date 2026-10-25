@@ -90,7 +90,7 @@ My research is in formal verification and logic in computer science. I use tools
   Proc. [CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php). [[DOI](https://doi.org/10.4230/LIPIcs.CONCUR.2021.21) | [arXiv](https://arxiv.org/abs/2105.04817) | [slides]({{ '/slides/2021-concur.pdf' | relative_url }})]
 - **A Cyclic Proof System for HFL(N)**.<br>
   Mayuko Kori, [Takeshi Tsukada](https://www-kb.is.s.u-tokyo.ac.jp/~tsukada/) and [Naoki Kobayashi](http://www-kb.is.s.u-tokyo.ac.jp/~koba/).<br>
-  Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/). [[DOI](https://doi.org/10.4230/LIPIcs.CSL.2021.29) | [arXiv](https://arxiv.org/abs/2010.14891)]
+  Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/). [[DOI](https://doi.org/10.4230/LIPIcs.CSL.2021.29) | [arXiv](https://arxiv.org/abs/2010.14891) | [slides]({{ '/slides/2021-csl.pdf' | relative_url }})]
 
 </div>
 </section>
