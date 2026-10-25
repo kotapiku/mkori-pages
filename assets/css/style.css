@@ -67,20 +67,13 @@ nav a { padding-block: 0.4rem; font-family: var(--heading); font-size: 0.875rem;
 nav a:hover { text-decoration: underline; }
 
 .profile {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 240px;
-  align-items: center;
-  gap: 4.5rem;
   padding-block: 4.5rem;
 }
 h1, h2, h3, p { margin-top: 0; }
 h1, h2, h3 { font-family: var(--heading); }
 h1 { margin-bottom: 0.4rem; font-size: clamp(2.7rem, 5vw, 3.75rem); font-weight: 500; letter-spacing: -0.035em; line-height: 1.12; }
 .japanese-name { margin-bottom: 1.7rem; color: var(--muted); font-size: 1.05rem; letter-spacing: 0.15em; }
-.profile > p { margin: 0; }
 .profile-copy > p:last-child { margin-bottom: 0; }
-.profile-copy p { max-width: 39rem; }
-.portrait { display: block; width: 240px; max-width: 100%; height: auto; border-radius: 3px; }
 h2 { margin-bottom: 1.5rem; font-size: 1.9rem; font-weight: 600; letter-spacing: -0.015em; line-height: 1.3; }
 
 .publications { padding-block: 2.75rem 1.5rem; border-top: 1px solid var(--rule); }
@@ -112,8 +105,7 @@ h2 { margin-bottom: 1.5rem; font-size: 1.9rem; font-weight: 600; letter-spacing:
   .page-width { width: calc(100% - 3rem); }
   .site-header { align-items: flex-start; flex-direction: column; gap: 0.6rem; }
   nav { gap: 0.25rem 1.5rem; }
-  .profile { grid-template-columns: minmax(0, 1fr) 160px; gap: 2rem; padding-block: 3rem; }
-  .portrait { width: 160px; }
+  .profile { padding-block: 3rem; }
   .cv-grid { gap: 2.5rem; }
 }
 
@@ -122,8 +114,7 @@ h2 { margin-bottom: 1.5rem; font-size: 1.9rem; font-weight: 600; letter-spacing:
   .site-header { padding-block: 1rem; }
   nav { column-gap: 1.2rem; }
   nav a { font-size: 0.8rem; }
-  .profile { grid-template-columns: 1fr; gap: 1.75rem; padding-block: 2.5rem; }
-  .portrait { width: 150px; }
+  .profile { padding-block: 2.5rem; }
   .profile-copy > p:not([class]) { font-size: 0.95rem; }
   .publication-year { grid-template-columns: 1fr; gap: 0; }
   .publication-year h3 { margin-bottom: 0.65rem; padding-top: 1.5rem; }
@@ -138,8 +129,7 @@ h2 { margin-bottom: 1.5rem; font-size: 1.9rem; font-weight: 600; letter-spacing:
   body { background: white; color: black; font-size: 10pt; }
   .page-width { width: 100%; }
   .site-header, .site-footer, .skip-link { display: none; }
-  .profile { grid-template-columns: 1fr 120px; gap: 2rem; padding-block: 0 1.5rem; }
-  .portrait { width: 120px; }
+  .profile { padding-block: 0 1.5rem; }
   h1 { font-size: 30pt; }
   h2 { break-after: avoid; }
   .publications, .cv-grid, .contact { padding-block: 1.25rem; }

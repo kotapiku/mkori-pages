@@ -14,6 +14,8 @@ I'm an assistant professor at the [Research Institute for Mathematical Sciences]
 
 My research is in formal verification and logic in computer science. I use tools from category theory, particularly coalgebra, to study problems in these areas.
 
+</div>
+</div>
 
 <section class="publications" aria-labelledby="publications" markdown="1">
 
