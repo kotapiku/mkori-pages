@@ -28,7 +28,7 @@ My research is in formal verification and logic in computer science. I use tools
   Formal Methods in System Design (FMSD) 2026. [[DOI](https://doi.org/10.1007/s10703-026-00496-7)]
 - **From Coalgebraic Determinization to Belief Construction for Partial Observability**.<br>
   Mayuko Kori and Kazuki Watanabe.<br>
-  Proc. [CONCUR 2026](https://confest-2026.github.io/concur/). [[DOI](https://doi.org/10.4230/LIPIcs.CONCUR.2026.39) | [arXiv](https://arxiv.org/abs/2604.25355)]
+  Proc. [CONCUR 2026](https://confest-2026.github.io/concur/). [[DOI](https://doi.org/10.4230/LIPIcs.CONCUR.2026.39) | [arXiv](https://arxiv.org/abs/2604.25355) | [slides]({{ '/slides/2026-concur.pdf' | relative_url }})]
 - **Adequacy for Predicate Transformer Semantics**.<br>
   Kazuki Watanabe, Mirai Ikebuchi, and Mayuko Kori.<br>
   Proc. [ICFP 2026](https://icfp26.sigplan.org/). [[DOI](https://doi.org/10.1145/3828674)]
@@ -37,7 +37,7 @@ My research is in formal verification and logic in computer science. I use tools
   To appear in [CMCS 2026](https://www.coalg.org/cmcs26/). [[arXiv](https://arxiv.org/abs/2604.01103)]
 - **A No-go Theorem for Coalgebraic Product Construction**.<br>
   Mayuko Kori and Kazuki Watanabe.<br>
-  Proc. [FoSSaCS 2026](https://etaps.org/2026/conferences/fossacs/). [[DOI](https://doi.org/10.1007/978-3-032-22730-0_17) | [arXiv](https://arxiv.org/abs/2504.06592)]
+  Proc. [FoSSaCS 2026](https://etaps.org/2026/conferences/fossacs/). [[DOI](https://doi.org/10.1007/978-3-032-22730-0_17) | [arXiv](https://arxiv.org/abs/2504.06592) | [slides]({{ '/slides/2026-fossacs.pdf' | relative_url }})]
 
 </div>
 
@@ -47,7 +47,7 @@ My research is in formal verification and logic in computer science. I use tools
 
 - **Initial Algebra Correspondence under Reachability Conditions**.<br>
   Mayuko Kori, Kazuki Watanabe, and Jurriaan Rot.<br>
-  Proc. [LICS 2025](https://lics.siglog.org/lics25/). [[DOI](https://doi.org/10.1109/LICS65433.2025.00013) | [arXiv](https://arxiv.org/abs/2505.09132)]
+  Proc. [LICS 2025](https://lics.siglog.org/lics25/). [[DOI](https://doi.org/10.1109/LICS65433.2025.00013) | [arXiv](https://arxiv.org/abs/2505.09132) | [slides]({{ '/slides/2025-lics.pdf' | relative_url }})]
 
 </div>
 
@@ -57,7 +57,7 @@ My research is in formal verification and logic in computer science. I use tools
 
 - **Composing Codensity Bisimulations**.<br>
   Mayuko Kori, Kazuki Watanabe, Jurriaan Rot, and Shin-ya Katsumata.<br>
-  Proc. [LICS 2024](https://lics.siglog.org/lics24/). [[DOI](https://doi.org/10.1145/3661814.3662139) | [arXiv](https://arxiv.org/abs/2404.08308) | [slides]({{ '/slides/LICS2024.pdf' | relative_url }})]
+  Proc. [LICS 2024](https://lics.siglog.org/lics24/). [[DOI](https://doi.org/10.1145/3661814.3662139) | [arXiv](https://arxiv.org/abs/2404.08308) | [slides]({{ '/slides/2024-lics.pdf' | relative_url }})]
 
 </div>
 
@@ -67,7 +67,7 @@ My research is in formal verification and logic in computer science. I use tools
 
 - **Exploiting Adjoints in Property Directed Reachability Analysis**.<br>
   Mayuko Kori, Flavio Ascari, Filippo Bonchi, Roberto Bruni, Roberta Gori, and Ichiro Hasuo.<br>
-  Proc. [CAV 2023](http://www.i-cav.org/2023/). [[DOI](https://doi.org/10.1007/978-3-031-37703-7_3) | [arXiv](http://arxiv.org/abs/2307.02817) | [slides]({{ '/slides/2023cav.pdf' | relative_url }})]
+  Proc. [CAV 2023](http://www.i-cav.org/2023/). [[DOI](https://doi.org/10.1007/978-3-031-37703-7_3) | [arXiv](http://arxiv.org/abs/2307.02817) | [slides]({{ '/slides/2023-cav.pdf' | relative_url }})]
 
 </div>
 
@@ -77,7 +77,7 @@ My research is in formal verification and logic in computer science. I use tools
 
 - **The Lattice-Theoretic Essence of Property Directed Reachability Analysis**.<br>
   Mayuko Kori, Natsuki Urabe, Shin-ya Katsumata, Kohei Suenaga, and Ichiro Hasuo.<br>
-  Proc. [CAV 2022](http://i-cav.org/2022/). [[DOI](https://doi.org/10.1007/978-3-031-13185-1_12) | [arXiv](https://arxiv.org/abs/2203.14261) | [slides]({{ '/slides/2022cav.pdf' | relative_url }})]
+  Proc. [CAV 2022](http://i-cav.org/2022/). [[DOI](https://doi.org/10.1007/978-3-031-13185-1_12) | [arXiv](https://arxiv.org/abs/2203.14261) | [slides]({{ '/slides/2022-cav.pdf' | relative_url }})]
 
 </div>
 
@@ -87,7 +87,7 @@ My research is in formal verification and logic in computer science. I use tools
 
 - **Fibrational Initial Algebra-Final Coalgebra Coincidence over Initial Algebras: Turning Verification Witnesses Upside Down**.<br>
   Mayuko Kori, [Ichiro Hasuo](http://group-mmm.org/~ichiro/) and [Shin-ya Katsumata](http://group-mmm.org/~s-katsumata/).<br>
-  Proc. [CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php). [[DOI](https://doi.org/10.4230/LIPIcs.CONCUR.2021.21) | [arXiv](https://arxiv.org/abs/2105.04817)]
+  Proc. [CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php). [[DOI](https://doi.org/10.4230/LIPIcs.CONCUR.2021.21) | [arXiv](https://arxiv.org/abs/2105.04817) | [slides]({{ '/slides/2021-concur.pdf' | relative_url }})]
 - **A Cyclic Proof System for HFL(N)**.<br>
   Mayuko Kori, [Takeshi Tsukada](https://www-kb.is.s.u-tokyo.ac.jp/~tsukada/) and [Naoki Kobayashi](http://www-kb.is.s.u-tokyo.ac.jp/~koba/).<br>
   Proc. [CSL 2021](https://csl2021.fmf.uni-lj.si/). [[DOI](https://doi.org/10.4230/LIPIcs.CSL.2021.29) | [arXiv](https://arxiv.org/abs/2010.14891)]

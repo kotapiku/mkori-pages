@@ -11,6 +11,8 @@ Keep the front matter at the top: it makes this file the homepage at `/`.
 - **Navigation and page shell:** edit `_layouts/default.html`.
 - **Page title and search description:** edit `_config.yml`.
 - **Images and slides:** put files in `images/` and `slides/`, respectively.
+  Name slide PDFs `YYYY-venue.pdf`, with the venue in lowercase (for example,
+  `2026-fossacs.pdf`).
   Use Jekyll's `relative_url` filter for new local links on the homepage.
 
 ## Preview locally
